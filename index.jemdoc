@@ -2,50 +2,46 @@
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: addcss{css/jemdoc_yuzhe.css}
 # jemdoc: addcss{ccs/myMiddle.css}
-# jemdoc: title{Lancheng ZOU -- CSE CUHK}
+# jemdoc: title{Mingjun LI -- CSE CUHK}
 
 
 ~~~
-{}{img_left}{img/zlc.jpg}{}{150}{Lancheng ZOU}
-= Lancheng ZOU (邹岚丞)
+{}{img_left}{img/zlc.jpg}{}{150}{Mingjun LI}
+= Mingjun LI (李明峻)
 
 *Ph.D. Student*  
 [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
 *Supervisor*: [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] \n
-*Email*:lanchengzou@gmail.com\n
-{{<a href="https://github.com/lanchengzou" target="<u>blank"><img src="img/github-3.png" height=30></a>}} \n           
+*Email*: mingjun@buaa.edu.cn\n
+{{<a href="https://github.com/MingjunLi99" target="<u>blank"><img src="img/github-3.png" height=30></a>}} \n           
 ~~~
 
 
 
 
 == Biography
-I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since 2023 Fall. Prior to that, I obtained my B.Eng. degree in Electronic Information Engineering from [https://www.whu.edu.cn/ Wuhan University] in 2023.\n 
-
-== Recent News
-~~~
-- Jul/2023: *Congratulation!* Our work on multimodility-based congestion prediction has been accepted by ICCAD!
-~~~
-
+I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since 2023 Fall. 
+Prior to that, I was a research assistant at the School of Computer Science and Engineering of [https://www.buaa.edu.cn/ Beihang University], supervised by [https://shi.buaa.edu.cn/jianlei/ Prof. Jianlei YANG], from 2021 to 2023.
+I obtained my B.Eng. degree in the School of Automation Science and Engineering from [https://www.buaa.edu.cn/ Beihang University] in 2021.\n 
 
 == Research Interest
-- AI in EDA
-- VLSI Placement
+- Energy Efficient Computing
+- Heterogeneous Accelerator Design
+- Software-Hardware Co-Optimization
 
 == Publication
 #
-- \[C2\] S. Zheng\*, *L. Zou\**, P.Xu, S. Liu, B. Yu, M. D.F. Wong, "Lay-Net: Grafting Netlist Knowledge on Layout-Based Congestion Prediction", International Conference on Computer-Aided Design (ICCAD), 2023
-#
-- \[C1\] S. Zheng, *L. Zou*, S. Liu, Y. Lin, B. Yu, M. D.F. Wong, "Mitigating Distribution Shift for Congestion Optimization in Global Placement", Design Automation Conference (DAC), 2023
+- \[C1\] *Mingjun Li*, Jianlei Yang, Yingjie Qi, Meng Dong, Yuhao Yang, Runze Liu, Weitao Pan, Bei Yu, Weisheng Zhao, "Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform", Design Automation Conference (DAC), 2022
 
 == Education
 - Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug\/2023 - Now
-- B.Eng., School of Electronic Information, Wuhan University (WHU), Aug\/2019 - Jun\/2023
+- Research Assistant, School of Computer Science and Engineering, Beihang University (BUAA), Jun\/2021 - Jun\/2023
+- B.Eng., School of Automation Science and Engineering, Beihang University (BUAA), Sep\/2017 - Jun\/2021
 
 == Experiences
 *[https://cn.smartmore.com/ SmartMore]* Shenzhen, China
-- Intern, Feb. 2023 - Aug. 2023
+- Intern in the R&D Department, Aug. 2022 - Jun. 2023
 
 == Selected Awards
 ~~~
@@ -55,8 +51,8 @@ I am a first-year Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of
 ~~~
 
 == Skills
-- Languages: C\/C\+\+, Python, Verilog
-- Tools    : PyTorch, Tensorflow, Vivado, LaTeX
+- Languages: C\/C\+\+, Python, Verilog, Chisel, Matlab
+- Tools    : Xilinx Vivado Design Suite, ROS, LaTeX
 
 
 
