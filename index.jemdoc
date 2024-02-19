@@ -13,10 +13,8 @@
 [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
 *Supervisor*: [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] \n
-*Email*: mingjun@buaa.edu.cn\n          
+*Email*: mjli23[at]cse.cuhk.edu.hk\n          
 ~~~
-
-
 
 
 == Biography
@@ -27,11 +25,19 @@ I obtained my B.Eng. degree in the School of Automation Science and Engineering 
 == Research Interest
 - Energy Efficient Computing
 - Heterogeneous Accelerator Design
-- Software-Hardware Co-Optimization
+- Software-Hardware Co-Design
+
+
+== Recent News
+~~~
+- Feb/2024: Congratulation! Our work on *Winograd Convolution FPGA IP Generation* has been accepted by DAC 2024!
+~~~
+
 
 == Publication
 #
-- \[C1\] *Mingjun Li*, Jianlei Yang, Yingjie Qi, Meng Dong, Yuhao Yang, Runze Liu, Weitao Pan, Bei Yu, Weisheng Zhao, "Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform", Design Automation Conference (DAC), 2022
+- \[C2\] *Mingjun Li*\*, Pengjia Li\*, Shuo Yin, Shixin Chen, Beichen Li, Chong Tong, Jianlei Yang, Tinghuan Chen, Bei Yu, “WinoGen: A Highly Configurable Winograd Convolution IP Generator for Efficient CNN Acceleration on FPGA”, ACM/IEEE Design Automation Conference (DAC), 2024.
+- \[C1\] *Mingjun Li*, Jianlei Yang, Yingjie Qi, Meng Dong, Yuhao Yang, Runze Liu, Weitao Pan, Bei Yu, Weisheng Zhao, "Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform", ACM/IEEE Design Automation Conference (DAC), 2022.
 
 == Education
 - Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug\/2023 - Now
