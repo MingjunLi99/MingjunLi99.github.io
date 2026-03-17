@@ -42,9 +42,10 @@ I obtained my B.Eng. degree in the School of Automation Science and Engineering 
 - \[C1\] *Mingjun Li*, Jianlei Yang, Yingjie Qi, Meng Dong, Yuhao Yang, Runze Liu, Weitao Pan, Bei Yu, Weisheng Zhao, "Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform", ACM/IEEE Design Automation Conference (DAC), 2022.
 
 === Journal papers
-- \[C3\] Lancheng Zou, Shuo Yin, *Mingjun Li*, Mingzi Wang, Chen Bai, Wenqian Zhao, Bei Yu, “Oiso: Outlier-isolated Data Format for Low-bit Large Language Model Quantization”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
-- \[C2\] Jiaxi Jiang, Yuan Pu, *Mingjun Li*, Yuxuan Zhao, Peiyu Liao, Zuodong Zhang, Yibo Lin, Bei Yu, “RegPlace: Regularity-aware Placement for Full-System DNN Accelerator Designs”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
-- \[C1\] Yang Bai, *Mingjun Li*, Wendong Xu, Bei Yu, “A Learned Performance Model with Transfer Learning Across GPUs on Tensorized Instructions”, accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
+- \[J4\] Yang Bai, *Mingjun Li*, Yuhao Ji, Bei Yu, “Co-exploration of Hardware Acceleration and Tensor Programs via Unified Compilation Interface”, accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES).
+- \[J3\] Lancheng Zou, Shuo Yin, *Mingjun Li*, Mingzi Wang, Chen Bai, Wenqian Zhao, Bei Yu, “Oiso: Outlier-isolated Data Format for Low-bit Large Language Model Quantization”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+- \[J2\] Jiaxi Jiang, Yuan Pu, *Mingjun Li*, Yuxuan Zhao, Peiyu Liao, Zuodong Zhang, Yibo Lin, Bei Yu, “RegPlace: Regularity-aware Placement for Full-System DNN Accelerator Designs”, accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
+- \[J1\] Yang Bai, *Mingjun Li*, Wendong Xu, Bei Yu, “A Learned Performance Model with Transfer Learning Across GPUs on Tensorized Instructions”, accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
 
 == Education
 - Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), Aug\/2023 - Now
@@ -64,7 +65,7 @@ I obtained my B.Eng. degree in the School of Automation Science and Engineering 
 
 == Skills
 - Languages: C\/C\+\+, Python, Verilog, Chisel, Matlab
-- Tools    : Xilinx Vivado Design Suite, ROS, LaTeX
+- Tools    : Xilinx Vivado Design Suite, Synopsys Design Compiler, Cadence Innovus, ROS, LaTeX
 
 
 
