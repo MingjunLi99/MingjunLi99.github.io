@@ -18,19 +18,21 @@
 
 
 == Biography
-I am a Ph.D. Student at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since 2023 Fall. 
+I am a Ph.D. candidate at [http://www.cse.cuhk.edu.hk the Department of Computer Science and Engineering], [http://www.cuhk.edu.hk the Chinese University of Hong Kong (CUHK)], supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since 2023 Fall. 
 Prior to that, I was a research assistant at the School of Computer Science and Engineering of [https://www.buaa.edu.cn/ Beihang University], supervised by [https://shi.buaa.edu.cn/jianlei/ Prof. Jianlei YANG], from 2021 to 2023.
 I obtained my B.Eng. degree in the School of Automation Science and Engineering from [https://www.buaa.edu.cn/ Beihang University] in 2021.\n 
 
 == Research Interest
-- Energy Efficient Computing
+- Electronic Design Automation in 3D IC
+- 3D IC Physical Design
 - Heterogeneous Accelerator Design
 - Software-Hardware Co-Design
-- Electronic Design Automation in 3D IC and FPGA
 
 
 == Recent News
 ~~~
+- Jul/2026: Start my internship in Huawei HKRC EDA Lab, continue working on 3D IC EDA.
+- May/2026: Our collaboration project with Huawei HKRC in 3D IC automated placement and routing algorithms design and implementation is awarded as outstanding collaboration project in Huawei!
 - Feb/2024: *Congratulation!* Our work on Winograd Convolution FPGA IP Generation has been accepted by DAC 2024!
 ~~~
 
@@ -53,6 +55,10 @@ I obtained my B.Eng. degree in the School of Automation Science and Engineering 
 - B.Eng., School of Automation Science and Engineering, Beihang University (BUAA), Sep\/2017 - Jun\/2021
 
 == Experiences
+*[https://www.linkedin.com/company/huawei-hong-kong-research-center-hkrc/ Huawei Hong Kong Research Center]* Hong Kong SAR
+- Intern in EDA Lab, 2012 Lab, Jul. 2026 - Current
+- On-site University-side Research Collaborator, May. 2025 – April. 2026
+
 *[https://cn.smartmore.com/ SmartMore]* Shenzhen, China
 - Intern in the R&D Department, Aug. 2022 - Jun. 2023
 
@@ -64,7 +70,7 @@ I obtained my B.Eng. degree in the School of Automation Science and Engineering 
 ~~~
 
 == Skills
-- Languages: C\/C\+\+, Python, Verilog, Chisel, Matlab
+- Languages: C\/C\+\+, Python, Verilog, Chisel, Tcl, Matlab
 - Tools    : Xilinx Vivado Design Suite, Synopsys Design Compiler, Cadence Innovus, ROS, LaTeX
 
 
